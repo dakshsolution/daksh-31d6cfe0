@@ -1,0 +1,8 @@
+Threshold: 2
+Initial images: 192
+Removed redundant images: 3
+Remaining images: 189
+
+624-0046-1_1.png
+825-0022-1_1.png
+925-0005-1_1.png
