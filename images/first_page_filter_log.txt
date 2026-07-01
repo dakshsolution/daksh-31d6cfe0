@@ -1,6 +1,6 @@
-Input rows: 189
-Output rows: 149
-Excluded first-page images: 40
+Initial images: 189
+Removed first-page images: 40
+Remaining images: 149
 
 124-0047-1_1.png
 125-0015-1_1.png
